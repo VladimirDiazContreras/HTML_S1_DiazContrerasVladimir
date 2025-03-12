@@ -4,9 +4,9 @@ en este dia empezamos con la creacion de una pagina la cual contendra nuestra ho
 ## Tabla de contenidos
 | Indice | días |contenido |
 |--|--|--|
-| 1 | imagenes  
-| 2 | style 
-| 3 | index
+| 1 | imagenes| foto para la hoja de vida
+| 2 | style | estilos del texto
+| 3 | index| progamacion de la pagina 
 
 
 
