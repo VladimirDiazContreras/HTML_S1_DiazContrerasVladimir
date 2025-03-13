@@ -2,7 +2,7 @@
 este github contendra los trabajos de la skill de HTML 
 
 ## Tabla de contenidos
-| Indice
+| Indice| titulo |
 |--|--|
 | 1 |  [dia1](https://github.com/VladimirDiazContreras/HTML_S1_DiazContrerasVladimir/tree/main/dia1) |
 | 2 | [dia2](https://github.com/VladimirDiazContreras/HTML_S1_DiazContrerasVladimir/tree/main/dia2) |
