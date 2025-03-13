@@ -17,7 +17,7 @@ paraejecutar la pagina web debes entrar a este  [link](https://vladimirdiazcontr
 
 
 ### explicación  
-este git   se enfoca en el guardado de la evolución del examen del skill de python 
+este git   se enfoca en el guardado de la evolución del skill de HTML 
 
 
 Hecho por [Vladimir Diaz Contreras](https://github.com/VladimirDiazContreras)  

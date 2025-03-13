@@ -10,7 +10,7 @@ este github contendra los trabajos de la skill de HTML
 
 
 ### como ejecutar 
-paraejecutar la pagina web debes entrar a este  
+paraejecutar la pagina web debes entrar a este [link](https://vladimirdiazcontreras.github.io/HTML_S1_DiazContrerasVladimir/dia4/)
 
 
 
