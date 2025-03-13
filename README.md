@@ -3,16 +3,16 @@ este github contendra los trabajos de la skill de HTML
 
 ## Tabla de contenidos
 | Indice
-|--|--|--|
-| 1 |  [dia1](https://github.com/VladimirDiazContreras/HTML_S1_DiazContrerasVladimir/tree/main/dia1) 
-| 2 | [dia2](https://github.com/VladimirDiazContreras/HTML_S1_DiazContrerasVladimir/tree/main/dia2)
-| 3 | [dia3](https://github.com/VladimirDiazContreras/HTML_S1_DiazContrerasVladimir/tree/main/dia3)
+|--|--|
+| 1 |  [dia1](https://github.com/VladimirDiazContreras/HTML_S1_DiazContrerasVladimir/tree/main/dia1) |
+| 2 | [dia2](https://github.com/VladimirDiazContreras/HTML_S1_DiazContrerasVladimir/tree/main/dia2) |
+| 3 | [dia3](https://github.com/VladimirDiazContreras/HTML_S1_DiazContrerasVladimir/tree/main/dia3) | 
 
 
 
 
 ### como ejecutar 
-paraejecutar la pagina web debes entrar a este  [link](https://vladimirdiazcontreras.github.io/HTML_S1_DiazContrerasVladimir/dia2/)  
+paraejecutar la pagina web debes entrar a este  [link](https://vladimirdiazcontreras.github.io/HTML_S1_DiazContrerasVladimir)  
 
 
 
