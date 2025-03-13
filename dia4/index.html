@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de registro - Mi web</title>
+</head>
+<body>
+    
+    <!-- FORMULARIOS -->
+     <!-- Son los mecanismos utilizados para que el usuario final envíe información
+      a través de unos campos 
+      visuales -->
+      <form name="formularioInscripcion" method="get" action=""
+      class="validado">
+        <!-- ELEMENTO INPUT-->
+         <h1>Formulario de registro </h1>
+         <label for="name"  >nombre:</label>
+         <input type="text" name="username" placeholder="nombres" required minlength="0" maxlength="50" /> <br>
+         <label for="name">apellidos:</label>
+         <input type="text" name="lastname" placeholder="apellidos" required minlength="0" maxlength="50" /> <br> 
+        <label for="genero">selecciona tu genero:</label>
+         <select name="sexo"  >
+            
+            <option value="mujer">mujer</option>
+            <option value="hombre">hombre</option>
+          
+        </select><br>
+        <label for="name"  >correo:</label>
+        <input type="email" name="correo" placeholder="Correo"/> <br>
+        <label for="genero">poblacion:</label>
+        <select name="sexo"  >
+            
+            <option value="Bucaramanga">Bucaramanga</option>
+            <option value="Giron">Giron</option>
+            <option value="Floridablanca">Floridablanca</option>
+            <option value="Piedecuesta">Piedecuesta</option>
+          
+        </select><br>
+        <label for="genero">descripcion:</label>
+        <textarea> </textarea><br>
+        <input type="checkbox" id="coding" name="interest" value="coding" checked />
+        <label for="coding">Deseo recibir información sobre novedades y ofertas</label><br>
+       <input type="checkbox" id="coding" name="interest" value="coding" checked /> 
+        <label for="coding">Declaro haber leído y aceptar las condiciones generales del programa y<br> la normativa sobre protección de datos</label><br>
+        <input type="submit" value="Enviar">
+      </form>
+</body>
+</html>
