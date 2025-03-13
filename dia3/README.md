@@ -11,7 +11,7 @@ en este dia empezamos con la creacion de una pagina la cual contendra nuestra ho
 
 
 ### como ejecutar 
-paraejecutar la pagina web debes entrar a este  [link](https://vladimirdiazcontreras.github.io/HTML_S1_DiazContrerasVladimir/dia2/)  
+paraejecutar la pagina web debes entrar a este  [link](https://vladimirdiazcontreras.github.io/HTML_S1_DiazContrerasVladimir/dia3/)  
 
 
 
