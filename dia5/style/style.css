@@ -76,3 +76,35 @@ z-index: 1;
         z-index: 1;
         
     }
+    .p7{
+        position: absolute;
+        display: flex;
+        top: 2650px;
+        left:874px  ;
+        width: 168px;
+        height: 168px ; /* altura*/
+        z-index: 1;
+        
+    }
+    .p8{
+        position: absolute;
+        display: flex;
+        top: 2490px;
+        left:496px  ;
+        width: 168px;
+        font-size:60px ;
+        height: 168px ; /* altura*/
+        z-index: 1;        
+    }
+    .p9{
+        position: absolute;
+        display: flex;
+        top: 2801px;
+        left:220px  ;
+        width: 168px;
+        font-size:30px ;
+        height: 168px ; /* altura*/
+        z-index: 1;        
+    }
+    
+    
