@@ -8,3 +8,7 @@
     width:230px;
     height: 230px;
 }
+@font-face {
+    font-family: "letra" ;
+    src: url(../);
+}
