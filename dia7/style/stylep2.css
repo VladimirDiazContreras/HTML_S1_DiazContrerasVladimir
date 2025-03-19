@@ -10,6 +10,13 @@
     font-weight: normal;
     font-style: normal;
 }
+.fondos{
+    background: linear-gradient(#FFFF, #E6E6E6, #808080 );
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 1080px;
+}
 
 .Fondoblanco{
     position: absolute;
@@ -17,6 +24,8 @@
     left: 100px;
     width: 1400px;
     height: 800px;
+    border: 1px solid #707070;
+    background-color: #ffffff;
 }
 .tarjeta2{
     position: absolute;
@@ -59,7 +68,10 @@
     left: 1180px;
     width: 160px;
     height: 114px;
+    
+    background:#D5FF43;
     border-radius: 8px;
+    opacity: 1;
 }
 .logo2{
     top: 876px;
@@ -153,9 +165,9 @@ height: 37px;
 left: 683px;
 width: 329px;
 height: 37px;
-    font-size: 20px;
+    font-size: 27px;
     color: rgb(0, 0, 0);
-    font-family: "letra1";
+    font-family: "letra2";
 }
 .text8{
     position: absolute;
@@ -166,5 +178,35 @@ height: 37px;
     border-radius: 1px;
     font-size: 30px;
     color: rgb(83, 81, 81);
+    font-family: "letra1";
+}
+.text9{
+    position: absolute;
+    top: 507px;
+left: 1417px;
+width: 57px;
+height: 27px;
+    font-size: 20px;
+    color: #FFFFFF80;
+    font-family: "letra1";
+}
+.text10{
+    position: absolute;
+    top: 587px;
+left: 1417px;
+width: 57px;
+height: 27px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    font-family: "letra1";
+}
+.text11{
+    position: absolute;
+    top: 667px;
+left: 1417px;
+width: 57px;
+height: 27px;
+    font-size: 20px;
+    color: #FFFFFF80;
     font-family: "letra1";
 }
