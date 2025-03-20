@@ -337,7 +337,7 @@ copyright {
 
 }
 
-.spams {
+.spam {
 
     color: #f8b75de1;
 }
@@ -617,7 +617,7 @@ Contact:hover {
 
 }
 
-.one {
+.uno {
     max-width: 160px;
 
     position: absolute;
@@ -653,7 +653,7 @@ Contact:hover {
 
 }
 
-.two {
+.dos {
     max-width: 160px;
 
     position: absolute;
@@ -690,7 +690,7 @@ Contact:hover {
 
 }
 
-.three {
+.tres {
 
     max-width: 160px;
 
@@ -705,7 +705,7 @@ Contact:hover {
 
 /*  LEARN MORE DE LOS 3 MENUS DE LAS PRODUCTOS */
 
-.learnmenu1 {
+.menu1 {
 
     position: absolute;
 
@@ -726,7 +726,7 @@ Contact:hover {
 
 }
 
-.learnmenu1:hover {
+.menu1:hover {
  
     box-shadow: 10px 10px #d0d0d0;
     cursor: pointer;
@@ -736,7 +736,7 @@ Contact:hover {
 
 
 
-.learnmenu2 {
+.menu2 {
 
     position: absolute;
 
@@ -757,7 +757,7 @@ Contact:hover {
 
 }
 
-.learnmenu2:hover {
+.menu2:hover {
  
     box-shadow: 10px 10px #d0d0d0;
     cursor: pointer;
@@ -767,7 +767,7 @@ Contact:hover {
 
 
 
-.learnmenu3 {
+.menu3 {
 
     position: absolute;
 
@@ -788,7 +788,7 @@ Contact:hover {
 
 }
 
-.learnmenu3:hover {
+.menu3:hover {
  
     box-shadow: 10px 10px #dfdede;
     cursor: pointer;
