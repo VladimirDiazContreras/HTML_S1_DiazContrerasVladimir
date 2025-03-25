@@ -17,6 +17,8 @@
       width:230px;
       height: 230px;
       border-radius:70%;
+      object-fit: cover;
+      object-position: center top;
   }
   
   
@@ -59,3 +61,7 @@
       margin: 15px 10px;
   
   }
+  .img{
+    width:230px;
+    height: 230px;
+}
