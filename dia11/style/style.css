@@ -1,65 +1,67 @@
-body{
-    display: flex;
-    justify-content: center;
-}
-contenedor_1{
-    display: inline-grid;
-    grid-template-columns:  1fr 1fr;
-    grid-template-rows: 1fr 1fr 1fr;
-    row-gap: 9vw;
-    gap: 0.vw;
-    padding: 2vw;
+.contenedor-flex{
+    display: grid;
+    width: 73vw;
     background-color: black;
+    border-radius: 10px;
 }
-contenedor_1 >div >iframe{
-    border-radius: 5vw;
-    width: 100%;
-    height: 100vh;
+.contenedor-flex_img1{
+    margin-top: 1vw;
+    margin-left: 1vw;
+    width: 34.7vw;
+    border-radius: 40px;
 }
-.video_dinosaur iframe{
-    display: inline-grid;
-    grid-row-start: 1;
-    grid-row-end: 1;
-    border-radius: 5vw;
-    width: 45vw;
-    height: 25vw;
-    border: 1px solid rgb(0, 0, 0);
+.contenedor-flex_img2{
+    margin-top: 1vw;
+    margin-left: 1vw;
+    margin-bottom: 1vw;
+    border-radius: 40px;
+    width: 34.7vw;
 }
-.video_paper{
-    grid-row-start: 2;
-    grid-row-end: 3;
-    margin-top: -45vw;
-}
-.video_paper iframe{
-    border-radius: 5vw;
-    width: 45vw;
-    height: 25vw;
-    border: 10px solid rgb(226, 104, 33);
-    border:0;
-     
-
-
-}
-.img_tex img{
+.contenedor-flex_img3{
+    width: 34.53vw;
+    margin-top: 1vw;
     grid-row-start: 1;
     grid-row-end: 3;
     grid-column-start: 2;
     grid-column-end: 3;
-    border-radius: 5vw;
-    width: 50vw;
-    height: 65vw;
-    border: 1px solid rgb(23, 95, 158);
-    
+    border-radius: 40px;   
 }
-.video_dinosaur2 iframe{
+.contenedor-flex_img4{
     grid-column-start: 1;
     grid-column-end: 3;
-    grid-row-start: 2;
-    grid-row-end: 3;
-
+    margin-left: 1.1vw;
+    margin-bottom: 1vw; 
+    width: 70.5vw;
+    border-radius: 40px;
 }
-.video_dinosaur2 iframe{
-   width:100% ;
-   
-
+.contenedor-flex1{
+    margin-top: 1vw;
+    align-self: center;
+    display: grid;
+    width: 73vw;
+    background-color: black;
+    border-radius: 10px;
+}
+.contenedor-flex1_img5{
+    width: 34.7vw;
+    border-radius: 40px;
+    margin-left: 1.4vw;
+    margin-top: 1vw;
+}
+.contenedor-flex1_img6{
+    margin-top: 1vw;
+    margin-left: 1.4vw;
+    margin-bottom: 1vw;
+    width: 34.7vw;
+    border-radius: 40px;
+}
+.contenedor-flex1_img7{
+    width: 32.6vw;
+    border-radius: 40px;
+    margin-top: 1vw;
+    margin-left: 0.5;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 3;
 }
