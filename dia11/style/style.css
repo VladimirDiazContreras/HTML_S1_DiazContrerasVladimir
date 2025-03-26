@@ -2,7 +2,8 @@
     display: grid;
     width: 73vw;
     background-color: black;
-    border-radius: 10px;
+    border-radius: 1vw;
+    
 }
 .contenedor-flex_img1{
     margin-top: 1vw;
@@ -40,7 +41,7 @@
     display: grid;
     width: 73vw;
     background-color: black;
-    border-radius: 10px;
+    border-radius: 1vw;
 }
 .contenedor-flex1_img5{
     width: 34.7vw;
