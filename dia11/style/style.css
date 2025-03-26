@@ -1,1 +1,65 @@
- 
+body{
+    display: flex;
+    justify-content: center;
+}
+contenedor_1{
+    display: inline-grid;
+    grid-template-columns:  1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    row-gap: 9vw;
+    gap: 0.vw;
+    padding: 2vw;
+    background-color: black;
+}
+contenedor_1 >div >iframe{
+    border-radius: 5vw;
+    width: 100%;
+    height: 100vh;
+}
+.video_dinosaur iframe{
+    display: inline-grid;
+    grid-row-start: 1;
+    grid-row-end: 1;
+    border-radius: 5vw;
+    width: 45vw;
+    height: 25vw;
+    border: 1px solid rgb(0, 0, 0);
+}
+.video_paper{
+    grid-row-start: 2;
+    grid-row-end: 3;
+    margin-top: -45vw;
+}
+.video_paper iframe{
+    border-radius: 5vw;
+    width: 45vw;
+    height: 25vw;
+    border: 10px solid rgb(226, 104, 33);
+    border:0;
+     
+
+
+}
+.img_tex img{
+    grid-row-start: 1;
+    grid-row-end: 3;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    border-radius: 5vw;
+    width: 50vw;
+    height: 65vw;
+    border: 1px solid rgb(23, 95, 158);
+    
+}
+.video_dinosaur2 iframe{
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 3;
+
+}
+.video_dinosaur2 iframe{
+   width:100% ;
+   
+
+}
