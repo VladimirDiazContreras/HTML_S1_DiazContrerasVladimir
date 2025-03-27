@@ -1,0 +1,15 @@
+.Fondo1{
+    position: relative;
+    top: 10%;
+    left: 25%;
+    height: 50%;
+    width: 50%;
+    filter: brightness(60%);
+}
+.Fondo2{
+    position:absolute;
+    top: 10%;
+    left: 25%;
+    height: 10%;
+    width: 10%;
+}
